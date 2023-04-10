@@ -1,2 +1,2 @@
 # Honeypot
-DTI project for honeypot
+A SSH Honeypot for DTI project
